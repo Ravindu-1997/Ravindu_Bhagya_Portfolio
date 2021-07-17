@@ -192,7 +192,7 @@ header .navbar ul li a:hover {
   padding-left: 6rem;
 }
 
-.about .row .info a {
+.about .row .info h3 {
   font-size: 2rem;
   color: var(--yellow);
   padding: 1rem 0;
@@ -355,7 +355,7 @@ header .navbar ul li a:hover {
   padding-bottom: 2rem;
 }
 
-.contact .row .content .info a {
+.contact .row .content .info h3 {
   display: flex;
   align-items: center;
   font-size: 2rem;
@@ -364,7 +364,7 @@ header .navbar ul li a:hover {
   font-weight: normal;
 }
 
-.contact .row .content .info a i {
+.contact .row .content .info h3 i {
   padding-right: 1rem;
   color: var(--yellow);
 }
